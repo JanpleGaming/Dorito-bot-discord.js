@@ -1,5 +1,7 @@
 # [Dorito Bot Discord.js](https://github.com/Aaronidk/Dorito-bot-discord.js) 
 
+[![Run on Repl.it](https://repl.it/badge/github/JanpleGaming/Dorito-bot-discord.js)](https://repl.it/github/JanpleGaming/Dorito-bot-discord.js)
+
 A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation. 
 * Go to []() For a full command list.
 * The default prefix is . so a command the help command would be .help 
